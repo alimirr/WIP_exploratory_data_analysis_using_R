@@ -1,5 +1,5 @@
 ---
-title: "Exploring the On-demand Video Streaming Industry and Looking for a Niche Untapped Market."
+title: "Exploring the On-demand Video Streaming Industry and Looking for a Niche Untapped Market"
 author: "Ali Mir & Johanna Wameling"
 date: "12/21/2020"
 subtitle: "R for Data Science @ Hult International Business School"
